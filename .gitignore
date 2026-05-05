@@ -1,0 +1,14 @@
+#gitignore generico
+#entornos virtuales
+venv/
+.env
+__pycache__/
+*.pyc
+
+#IDEs
+.vscode/
+.idea/
+
+#sistema
+.DS_Store
+Thumbs.db
