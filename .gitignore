@@ -12,3 +12,6 @@ __pycache__/
 #sistema
 .DS_Store
 Thumbs.db
+
+#mis carpetas de practica
+recursos/
